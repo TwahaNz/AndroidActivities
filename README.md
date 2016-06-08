@@ -1,2 +1,1 @@
-# AndroidActivities
-Processed activities for android project
+# AndroidExam4Me
